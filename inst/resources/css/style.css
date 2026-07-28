@@ -129,7 +129,7 @@
     background-repeat: no-repeat, no-repeat;
     /*background-position: 8cm 25cm, 0cm 0cm;*/
     background-position: 50% 90%, 0cm 0cm;
-    background-size: 15cm, cover; /*tamaño logo tapa*/
+    background-size: 12cm, cover; /*tamaño logo tapa*/
 
     @top-left-corner {
       display: none;
